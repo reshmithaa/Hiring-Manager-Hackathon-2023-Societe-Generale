@@ -1,0 +1,14 @@
+Matching of job applications using skill
+* Based on experience, education, skills
+* Job opportunities for profile
+* When someone is hiring the matching profiles should be displayed.
+* Suggest mentor profiles
+	* online
+	* offline
+
+Output:
+* For students - Job opportunities
+* For Recruiters - Students
+* Recommendations
+	* Constraints
+		* location, mode - Online, offline
